@@ -236,10 +236,10 @@ function create_config( )
     "all",
     "leave_ban"
     },
-    sudo_users = {0},--Sudo users
+    sudo_users = {139983390},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Creed bot 2.3
+    about_text = [[sickmind bot 2.3
     
      Hello my Good friends 
      
