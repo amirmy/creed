@@ -243,7 +243,7 @@ function create_config( )
     
      Hello my Good friends 
      
-    ‼️ this bot is made by : @Xx_sickmind_xX
+    ‼️ this bot is made by : @Maybe_she_loves_me
    〰〰〰〰〰〰〰〰
    ߔࠀ  
    ߔࠀ  
